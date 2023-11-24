@@ -1,6 +1,6 @@
 👋  Hi, I’m @HarunMwau
 👀  Skilled in web development and machine learning 
-🌱  Enthusiast in JS, Python, C++ & Rust
+🌱  Dabble in JS, Python, C++ & Rust
 
 <!---
 HarunMwau/HarunMwau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
